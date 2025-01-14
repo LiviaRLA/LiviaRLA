@@ -1,8 +1,40 @@
-### Hi there 👋
+## Hi there, I'm Livia 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=LiviaRLA&color=blue)
+
+### 🌟 About Me 
+I'm a passionate software developer. I love experimenting with new technologies and constantly strive to improve my skills.
+
+- 🌱 I’m currently learning **JAVA**.
 <!--
-**LiviaRLA/LiviaRLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 I’m looking to collaborate on **open-source projects**.
+- 📝 I regularly write articles on [your blog](https://yourbloglink.com).
+- 📫 How to reach me: **[your email](mailto:youremail@example.com)**.
+- ⚡ Fun fact: I enjoy **[insert a fun fact about yourself]**.
 -->
+### 🛠 Tech Stack
+- **Languages:** 
+  - JAVA
+
+- **Frameworks and Libraries:** 
+  - 
+
+- **Tools and Platforms:** 
+  - Git & GitHub
+  - Docker
+  - Spring Boot
+
+### 📈 GitHub Stats
+![LiviaRLA's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiviaRLA&show_icons=true&theme=radical)
+
+
+### 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/livia-alves42/)
+<!--
+- [Twitter](https://twitter.com/yourprofile)
+- [Personal Website](https://yourwebsite.com)
+-->
+---
 
 <!--
 Here are some ideas to get you started:
