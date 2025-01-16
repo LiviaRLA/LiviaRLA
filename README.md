@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=LiviaRLA&color=blue)
 
 ### 🌟 About Me 
-I'm a passionate software developer. I love experimenting with new technologies and constantly strive to improve my skills.
+I love experimenting with new technologies and constantly strive to improve my skills.
 
 - 🌱 I’m currently learning **JAVA**.
 <!--
