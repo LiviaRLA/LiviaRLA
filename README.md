@@ -2,10 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LiviaRLA&color=blue)
 
-### 🌟 About Me 
-I love experimenting with new technologies and constantly strive to improve my skills.
+### 🌟 About Me
+Passionate about technology and constantly seeking to learn. Currently focused on deepening my knowledge in **Java** and exploring the fascinating world of **Artificial Intelligence** development, primarily using **Python**. I am also gaining experience in data analysis and visualization with **Pandas** and **Matplotlib**.
 
-- 🌱 I’m currently learning **JAVA**.
+- 🌱 I’m currently learning **PYTHON** (for AI development).
 <!--
 - 💼 I’m looking to collaborate on **open-source projects**.
 - 📝 I regularly write articles on [your blog](https://yourbloglink.com).
@@ -13,14 +13,21 @@ I love experimenting with new technologies and constantly strive to improve my s
 - ⚡ Fun fact: I enjoy **[insert a fun fact about yourself]**.
 -->
 ### 🛠 Tech Stack
-- **Languages:** 
-  - JAVA
+- **Languages:**
+  - Java
+  - Python (for AI development)
+ 
+- **Databases:**
+  - PostgreSQL
+  - MongoDB
 
-- **Frameworks and Libraries:** 
-  - 
+- **Frameworks and Libraries:**
+  - Spring Boot
+  - Pandas (for data analysis and manipulation)
+  - Matplotlib (for data visualization)
 
-- **Tools and Platforms:** 
-  - Git & GitHub
+- **Tools and Platforms:**
+  - Git & GitHub (for version control and collaboration)
   - Docker
   - Spring Boot
 
@@ -30,10 +37,7 @@ I love experimenting with new technologies and constantly strive to improve my s
 
 ### 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/livia-alves42/)
-<!--
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
--->
+
 ---
 
 <!--
