@@ -5,7 +5,7 @@
 ### 🌟 About Me
 Passionate about technology and constantly seeking to learn. Currently focused on deepening my knowledge in **Java** and exploring the fascinating world of **Artificial Intelligence** development, primarily using **Python**. I am also gaining experience in data analysis and visualization with **Pandas** and **Matplotlib**.
 
-- 🌱 I’m currently learning **PYTHON** (for AI development).
+- 🌱 I’m currently learning **PYTHON**.
 <!--
 - 💼 I’m looking to collaborate on **open-source projects**.
 - 📝 I regularly write articles on [your blog](https://yourbloglink.com).
@@ -15,7 +15,7 @@ Passionate about technology and constantly seeking to learn. Currently focused o
 ### 🛠 Tech Stack
 - **Languages:**
   - Java
-  - Python (for AI development)
+  - Python
  
 - **Databases:**
   - PostgreSQL
